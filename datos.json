@@ -1,0 +1,25 @@
+{
+    "name": "Andres Iniesta Perez",
+    "position": "Centrocampista",
+    "nationality": "Spanish",
+    "date_of_birth": "May 11, 1986",
+    "clubs": [
+        {
+            "name": "FC Barcelona",
+            "period": "2002-2018"
+        },
+        {
+            "name": "Vissel Kobe",
+            "period": "2018-present"
+        },
+        {
+            "name": "New Club",
+            "period": "2024-present"
+        }
+    ],
+    "honors": [
+        "FIFA World Cup winner (2010)",
+        "UEFA European Championship winner (2008-2012)",
+        "UEFA European Champions League winner (2005-06, 2008-09, 2010-11, 2014-15)"
+    ]
+}
